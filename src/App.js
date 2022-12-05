@@ -67,8 +67,7 @@ export default function App() {
         <h2>{luck}</h2>
         {pic}
       </div>
-      <p>Made with ❤️ by Pallavi 😄</p>
-
+      <span>Made with ❤️ by Pallavi 😄</span>
       <div>
         <a
           target="_blank"
